@@ -468,12 +468,11 @@ Total Impact: $1.2B market opportunity
 **Team Chemievolve** achieved first place among hundreds of competing teams from around the world, demonstrating exceptional innovation in sustainable chemistry solutions.
 
 </div>
-
 ### 📊 Competition Statistics
 
 | Metric | Achievement |
 |--------|-------------|
-| **🌍 Global Participation** | 500+ teams from 50+ countries |
+| **🌍 Indian Participation** | 30+ teams from Top IITS/NITS |
 | **🏆 Final Ranking** | **1st Place Winner** |
 | **💡 Innovation Score** | 95/100 (Highest among all teams) |
 | **🌱 Sustainability Impact** | 98/100 (Industry-leading score) |
